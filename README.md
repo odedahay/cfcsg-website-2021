@@ -1,1 +1,1 @@
-# Backup copy WP themes
+# Backup copy of my CFC SG WP theme
